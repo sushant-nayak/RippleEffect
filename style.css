@@ -79,7 +79,7 @@ body label {
   margin-right: 0.5rem;
   outline: none;
   position: relative;
-  z-index: 1000:
+  z-index: 1000;
 }
 
 .option-input:hover {
